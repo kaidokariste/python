@@ -1,0 +1,700 @@
+Game#: 1
+GameId: 8962836
+Time Mon Sep 19 2016 19:33:47 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 5, 'scaleThickness': 8, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 2
+GameId: 13681
+Time Mon Sep 19 2016 19:33:48 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 8, 'scaleThickness': 5, 'fireBreath': 2}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic agility"}'
+
+Game#: 3
+GameId: 7319100
+Time Mon Sep 19 2016 19:33:48 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 8, 'scaleThickness': 5, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 4
+GameId: 2128429
+Time Mon Sep 19 2016 19:33:48 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 2, 'scaleThickness': 7, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 5
+GameId: 5188740
+Time Mon Sep 19 2016 19:33:49 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 3, 'scaleThickness': 2, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 6
+GameId: 1018928
+Time Mon Sep 19 2016 19:33:49 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 5, 'scaleThickness': 4, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 7
+GameId: 920675
+Time Mon Sep 19 2016 19:33:50 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 6, 'scaleThickness': 1, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 8
+GameId: 8026594
+Time Mon Sep 19 2016 19:33:50 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 6, 'scaleThickness': 2, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 9
+GameId: 9505220
+Time Mon Sep 19 2016 19:33:50 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 2, 'scaleThickness': 4, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 10
+GameId: 197341
+Time Mon Sep 19 2016 19:33:51 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 6, 'scaleThickness': 1, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 11
+GameId: 9864524
+Time Mon Sep 19 2016 19:33:51 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 1, 'scaleThickness': 3, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 12
+GameId: 7024490
+Time Mon Sep 19 2016 19:33:51 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 6, 'scaleThickness': 5, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 13
+GameId: 2349241
+Time Mon Sep 19 2016 19:33:52 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 5, 'scaleThickness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 14
+GameId: 6035615
+Time Mon Sep 19 2016 19:33:52 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 6, 'scaleThickness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 15
+GameId: 2766976
+Time Mon Sep 19 2016 19:33:52 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 3, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 16
+GameId: 8438848
+Time Mon Sep 19 2016 19:33:53 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 0, 'scaleThickness': 8, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 17
+GameId: 895482
+Time Mon Sep 19 2016 19:33:53 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 7, 'scaleThickness': 8, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon was not balanced enough to put up with the heat."}'
+
+Game#: 18
+GameId: 6126633
+Time Mon Sep 19 2016 19:33:53 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 5, 'scaleThickness': 1, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon was not balanced enough to put up with the heat."}'
+
+Game#: 19
+GameId: 2058150
+Time Mon Sep 19 2016 19:33:54 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 6, 'scaleThickness': 2, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 20
+GameId: 9327168
+Time Mon Sep 19 2016 19:33:54 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 8, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 21
+GameId: 7951992
+Time Mon Sep 19 2016 19:33:54 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 6, 'scaleThickness': 8, 'fireBreath': 1}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 22
+GameId: 6500915
+Time Mon Sep 19 2016 19:33:55 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 4, 'scaleThickness': 7, 'fireBreath': 1}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 23
+GameId: 2594203
+Time Mon Sep 19 2016 19:33:55 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 4, 'scaleThickness': 4, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 24
+GameId: 4254046
+Time Mon Sep 19 2016 19:33:55 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 7, 'scaleThickness': 7, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 25
+GameId: 294040
+Time Mon Sep 19 2016 19:33:56 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 2, 'wingStrength': 5, 'scaleThickness': 5, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 26
+GameId: 2655142
+Time Mon Sep 19 2016 19:33:56 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 4, 'scaleThickness': 8, 'fireBreath': 1}}
+Battle b'{"status":"Defeat","message":"Dragon died in the storm."}'
+
+Game#: 27
+GameId: 259187
+Time Mon Sep 19 2016 19:33:56 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 6, 'scaleThickness': 5, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 28
+GameId: 2199596
+Time Mon Sep 19 2016 19:33:57 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 7, 'scaleThickness': 8, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 29
+GameId: 8037997
+Time Mon Sep 19 2016 19:33:57 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 4, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 30
+GameId: 3442954
+Time Mon Sep 19 2016 19:33:57 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 5, 'scaleThickness': 8, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 31
+GameId: 6626909
+Time Mon Sep 19 2016 19:33:58 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 32
+GameId: 3811549
+Time Mon Sep 19 2016 19:33:58 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 3, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 33
+GameId: 3040470
+Time Mon Sep 19 2016 19:33:58 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 6, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 34
+GameId: 656151
+Time Mon Sep 19 2016 19:33:59 GMT+0000 (UTC)
+Weather  If your sign is Aquarius, you’re in for a treat today, at first the water is going to fall on the ground and then it will also stick around for a while. Leaving the house raftless will result in mandatory swim class. The King announces that 10 most impressive swimmers will be representing the Kingdom in the International Olympic Games. Practice is every Tuesday and Thursday or whenever there’s a flood
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 5, 'scaleThickness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not put up with the awesome powers of the knights umbrella boat."}'
+
+Game#: 35
+GameId: 823186
+Time Mon Sep 19 2016 19:33:59 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 3, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 36
+GameId: 9935805
+Time Mon Sep 19 2016 19:33:59 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 5, 'scaleThickness': 7, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 37
+GameId: 1988126
+Time Mon Sep 19 2016 19:34:00 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 2, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic agility"}'
+
+Game#: 38
+GameId: 7592844
+Time Mon Sep 19 2016 19:34:00 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 7, 'scaleThickness': 8, 'fireBreath': 0}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 39
+GameId: 8252054
+Time Mon Sep 19 2016 19:34:00 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 6, 'scaleThickness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 40
+GameId: 4803746
+Time Mon Sep 19 2016 19:34:01 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 5, 'scaleThickness': 8, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 41
+GameId: 1527846
+Time Mon Sep 19 2016 19:34:01 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 0, 'scaleThickness': 8, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon was not balanced enough to put up with the heat."}'
+
+Game#: 42
+GameId: 5932255
+Time Mon Sep 19 2016 19:34:01 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 7, 'scaleThickness': 3, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon died in the storm."}'
+
+Game#: 43
+GameId: 7254673
+Time Mon Sep 19 2016 19:34:02 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 1, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 44
+GameId: 2767203
+Time Mon Sep 19 2016 19:34:02 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 45
+GameId: 4276451
+Time Mon Sep 19 2016 19:34:02 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 8, 'fireBreath': 1}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 46
+GameId: 4762205
+Time Mon Sep 19 2016 19:34:03 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 6, 'scaleThickness': 8, 'fireBreath': 3}}
+Battle b'{"status":"Defeat","message":"Dragon died in the storm."}'
+
+Game#: 47
+GameId: 2118615
+Time Mon Sep 19 2016 19:34:03 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 5, 'scaleThickness': 7, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 48
+GameId: 8410986
+Time Mon Sep 19 2016 19:34:03 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 2, 'wingStrength': 3, 'scaleThickness': 8, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 49
+GameId: 5994
+Time Mon Sep 19 2016 19:34:04 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 8, 'scaleThickness': 7, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 50
+GameId: 9609285
+Time Mon Sep 19 2016 19:34:04 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 7, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 51
+GameId: 4281701
+Time Mon Sep 19 2016 19:34:04 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 7}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 52
+GameId: 183948
+Time Mon Sep 19 2016 19:34:05 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 1, 'scaleThickness': 3, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 53
+GameId: 6325381
+Time Mon Sep 19 2016 19:34:05 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 7, 'scaleThickness': 6, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon died in the storm."}'
+
+Game#: 54
+GameId: 6623509
+Time Mon Sep 19 2016 19:34:05 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 55
+GameId: 1327892
+Time Mon Sep 19 2016 19:34:06 GMT+0000 (UTC)
+Weather  If your sign is Aquarius, you’re in for a treat today, at first the water is going to fall on the ground and then it will also stick around for a while. Leaving the house raftless will result in mandatory swim class. The King announces that 10 most impressive swimmers will be representing the Kingdom in the International Olympic Games. Practice is every Tuesday and Thursday or whenever there’s a flood
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 7, 'scaleThickness': 6, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not put up with the awesome powers of the knights umbrella boat."}'
+
+Game#: 56
+GameId: 2413654
+Time Mon Sep 19 2016 19:34:06 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 4, 'scaleThickness': 3, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 57
+GameId: 8208983
+Time Mon Sep 19 2016 19:34:06 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 6, 'scaleThickness': 8, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 58
+GameId: 7551767
+Time Mon Sep 19 2016 19:34:07 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 7, 'scaleThickness': 6, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 59
+GameId: 9901539
+Time Mon Sep 19 2016 19:34:07 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 3, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 60
+GameId: 4828472
+Time Mon Sep 19 2016 19:34:07 GMT+0000 (UTC)
+Weather  If your sign is Aquarius, you’re in for a treat today, at first the water is going to fall on the ground and then it will also stick around for a while. Leaving the house raftless will result in mandatory swim class. The King announces that 10 most impressive swimmers will be representing the Kingdom in the International Olympic Games. Practice is every Tuesday and Thursday or whenever there’s a flood
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 4, 'scaleThickness': 8, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not put up with the awesome powers of the knights umbrella boat."}'
+
+Game#: 61
+GameId: 7669373
+Time Mon Sep 19 2016 19:34:08 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 8, 'scaleThickness': 8, 'fireBreath': 3}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 62
+GameId: 115654
+Time Mon Sep 19 2016 19:34:08 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 7, 'scaleThickness': 6, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 63
+GameId: 4737913
+Time Mon Sep 19 2016 19:34:08 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 5, 'scaleThickness': 5, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 64
+GameId: 3539450
+Time Mon Sep 19 2016 19:34:09 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 7, 'scaleThickness': 2, 'fireBreath': 3}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 65
+GameId: 7203135
+Time Mon Sep 19 2016 19:34:09 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 2, 'scaleThickness': 5, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon was not balanced enough to put up with the heat."}'
+
+Game#: 66
+GameId: 2217030
+Time Mon Sep 19 2016 19:34:10 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 1, 'wingStrength': 6, 'scaleThickness': 5, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 67
+GameId: 3580521
+Time Mon Sep 19 2016 19:34:10 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 6, 'scaleThickness': 8, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 68
+GameId: 6571578
+Time Mon Sep 19 2016 19:34:10 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 6, 'scaleThickness': 2, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 69
+GameId: 5178434
+Time Mon Sep 19 2016 19:34:11 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 8, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 70
+GameId: 7913566
+Time Mon Sep 19 2016 19:34:11 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 1, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 71
+GameId: 2067343
+Time Mon Sep 19 2016 19:34:11 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 5, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon died in the storm."}'
+
+Game#: 72
+GameId: 4888345
+Time Mon Sep 19 2016 19:34:12 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 4, 'scaleThickness': 1, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 73
+GameId: 6719891
+Time Mon Sep 19 2016 19:34:12 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 4, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic endurance"}'
+
+Game#: 74
+GameId: 9665387
+Time Mon Sep 19 2016 19:34:12 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 5, 'scaleThickness': 6, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 75
+GameId: 8555514
+Time Mon Sep 19 2016 19:34:13 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 2, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic agility"}'
+
+Game#: 76
+GameId: 7430480
+Time Mon Sep 19 2016 19:34:13 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 2, 'wingStrength': 8, 'scaleThickness': 7, 'fireBreath': 3}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 77
+GameId: 2824867
+Time Mon Sep 19 2016 19:34:13 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 5, 'scaleThickness': 5, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 78
+GameId: 4263241
+Time Mon Sep 19 2016 19:34:14 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 5, 'scaleThickness': 1, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 79
+GameId: 5427173
+Time Mon Sep 19 2016 19:34:14 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 7, 'scaleThickness': 1, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 80
+GameId: 1668842
+Time Mon Sep 19 2016 19:34:14 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 0, 'wingStrength': 8, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 81
+GameId: 8175305
+Time Mon Sep 19 2016 19:34:15 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 1, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 82
+GameId: 9340576
+Time Mon Sep 19 2016 19:34:15 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 3, 'scaleThickness': 8, 'fireBreath': 3}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 83
+GameId: 1737004
+Time Mon Sep 19 2016 19:34:15 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 8, 'scaleThickness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic agility"}'
+
+Game#: 84
+GameId: 9020300
+Time Mon Sep 19 2016 19:34:16 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 8, 'scaleThickness': 2, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 85
+GameId: 5281526
+Time Mon Sep 19 2016 19:34:16 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 2, 'wingStrength': 6, 'scaleThickness': 7, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 86
+GameId: 8371134
+Time Mon Sep 19 2016 19:34:16 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 4, 'scaleThickness': 7, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+
+Game#: 87
+GameId: 2823490
+Time Mon Sep 19 2016 19:34:17 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 7, 'scaleThickness': 1, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 88
+GameId: 9761538
+Time Mon Sep 19 2016 19:34:17 GMT+0000 (UTC)
+Weather  If your sign is Aquarius, you’re in for a treat today, at first the water is going to fall on the ground and then it will also stick around for a while. Leaving the house raftless will result in mandatory swim class. The King announces that 10 most impressive swimmers will be representing the Kingdom in the International Olympic Games. Practice is every Tuesday and Thursday or whenever there’s a flood
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 6, 'scaleThickness': 1, 'fireBreath': 6}}
+Battle b'{"status":"Defeat","message":"Dragon could not put up with the awesome powers of the knights umbrella boat."}'
+
+Game#: 89
+GameId: 714242
+Time Mon Sep 19 2016 19:34:17 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 3, 'wingStrength': 8, 'scaleThickness': 8, 'fireBreath': 1}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 90
+GameId: 8112800
+Time Mon Sep 19 2016 19:34:18 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 5, 'scaleThickness': 5, 'fireBreath': 5}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 91
+GameId: 3853610
+Time Mon Sep 19 2016 19:34:18 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 7, 'scaleThickness': 2, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 92
+GameId: 2769419
+Time Mon Sep 19 2016 19:34:18 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 4, 'scaleThickness': 4, 'fireBreath': 8}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic endurance"}'
+
+Game#: 93
+GameId: 1857017
+Time Mon Sep 19 2016 19:34:19 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 8, 'scaleThickness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic agility"}'
+
+Game#: 94
+GameId: 2375083
+Time Mon Sep 19 2016 19:34:19 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 2, 'scaleThickness': 7, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 95
+GameId: 2311205
+Time Mon Sep 19 2016 19:34:19 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 4, 'wingStrength': 7, 'scaleThickness': 5, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights armor"}'
+
+Game#: 96
+GameId: 9717739
+Time Mon Sep 19 2016 19:34:20 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 3, 'scaleThickness': 3, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 97
+GameId: 990325
+Time Mon Sep 19 2016 19:34:20 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 8, 'wingStrength': 3, 'scaleThickness': 2, 'fireBreath': 7}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic attack"}'
+
+Game#: 98
+GameId: 7699849
+Time Mon Sep 19 2016 19:34:20 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 6, 'wingStrength': 7, 'scaleThickness': 5, 'fireBreath': 2}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights attack"}'
+
+Game#: 99
+GameId: 6540439
+Time Mon Sep 19 2016 19:34:21 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Solution {'dragon': {'clawSharpness': 7, 'wingStrength': 4, 'scaleThickness': 3, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 100
+GameId: 5075224
+Time Mon Sep 19 2016 19:34:21 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Solution {'dragon': {'clawSharpness': 5, 'wingStrength': 3, 'scaleThickness': 8, 'fireBreath': 4}}
+Battle b'{"status":"Defeat","message":"Dragon could not compete with knights epic armor"}'
+

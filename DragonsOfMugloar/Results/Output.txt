@@ -1,0 +1,900 @@
+Game#: 1
+GameId: 5312380
+Time Tue Sep 20 2016 15:05:35 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [1, 8, 3, 8]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 10, 'clawSharpness': 1, 'fireBreath': 7}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 2
+GameId: 3805025
+Time Tue Sep 20 2016 15:05:35 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 6, 2, 6]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 5, 'clawSharpness': 8, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 3
+GameId: 4379100
+Time Tue Sep 20 2016 15:05:35 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 5, 0, 8]
+Dragon {'dragon': {'wingStrength': 0, 'scaleThickness': 4, 'clawSharpness': 6, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 4
+GameId: 3826942
+Time Tue Sep 20 2016 15:05:36 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Weather code T E
+Knight [8, 1, 8, 3]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 5, 'clawSharpness': 5, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was zen enough to defeat the knight."}'
+
+Game#: 5
+GameId: 289189
+Time Tue Sep 20 2016 15:05:36 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 7, 3, 2]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 6, 'clawSharpness': 10, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 6
+GameId: 4500572
+Time Tue Sep 20 2016 15:05:36 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 7, 6, 2]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 9, 'clawSharpness': 4, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 7
+GameId: 2782784
+Time Tue Sep 20 2016 15:05:37 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 3, 8, 5]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 8
+GameId: 4137094
+Time Tue Sep 20 2016 15:05:37 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 0, 8, 4]
+Dragon {'dragon': {'wingStrength': 7, 'scaleThickness': 0, 'clawSharpness': 10, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 9
+GameId: 206493
+Time Tue Sep 20 2016 15:05:37 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 4, 4, 7]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 3, 'clawSharpness': 4, 'fireBreath': 9}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 10
+GameId: 3457327
+Time Tue Sep 20 2016 15:05:38 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 2, 8, 2]
+Dragon {'dragon': {'wingStrength': 7, 'scaleThickness': 1, 'clawSharpness': 10, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 11
+GameId: 3081489
+Time Tue Sep 20 2016 15:05:38 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 6, 3, 3]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 5, 'clawSharpness': 10, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 12
+GameId: 7869450
+Time Tue Sep 20 2016 15:05:38 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 2, 5, 5]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 2, 'clawSharpness': 10, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 13
+GameId: 6405183
+Time Tue Sep 20 2016 15:05:39 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 5, 0, 8]
+Dragon {'dragon': {'wingStrength': 0, 'scaleThickness': 4, 'clawSharpness': 6, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 14
+GameId: 7594318
+Time Tue Sep 20 2016 15:05:39 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 0, 8, 7]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 0, 'clawSharpness': 4, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 15
+GameId: 6978877
+Time Tue Sep 20 2016 15:05:39 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 3, 6, 4]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 16
+GameId: 9127948
+Time Tue Sep 20 2016 15:05:40 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 6, 6, 4]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 8, 'clawSharpness': 3, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 17
+GameId: 6291300
+Time Tue Sep 20 2016 15:05:40 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 8, 8, 1]
+Dragon {'dragon': {'wingStrength': 7, 'scaleThickness': 10, 'clawSharpness': 2, 'fireBreath': 1}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 18
+GameId: 2824314
+Time Tue Sep 20 2016 15:05:40 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 7, 3, 3]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 6, 'clawSharpness': 9, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 19
+GameId: 2945240
+Time Tue Sep 20 2016 15:05:41 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 3, 8, 7]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 2, 'clawSharpness': 2, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 20
+GameId: 909852
+Time Tue Sep 20 2016 15:05:41 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 3, 6, 4]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 21
+GameId: 3224239
+Time Tue Sep 20 2016 15:05:41 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 0, 7, 8]
+Dragon {'dragon': {'wingStrength': 6, 'scaleThickness': 0, 'clawSharpness': 4, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 22
+GameId: 2254065
+Time Tue Sep 20 2016 15:05:42 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Weather code FUNDEFINEDG
+Knight [0, 8, 8, 4]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 10, 'clawSharpness': 6, 'fireBreath': 1}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 23
+GameId: 1017640
+Time Tue Sep 20 2016 15:05:42 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 4, 3, 5]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 3, 'clawSharpness': 10, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 24
+GameId: 8103962
+Time Tue Sep 20 2016 15:05:42 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Weather code SRO
+Knight [3, 8, 8, 1]
+Dragon {}
+Battle b'{"status":"Victory","message":"Knight died in storm, dragon survived in the pen."}'
+
+Game#: 25
+GameId: 4369915
+Time Tue Sep 20 2016 15:05:43 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 4, 2, 7]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 26
+GameId: 9940151
+Time Tue Sep 20 2016 15:05:43 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 4, 8, 4]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 27
+GameId: 9996400
+Time Tue Sep 20 2016 15:05:43 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 7, 6, 1]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 9, 'clawSharpness': 5, 'fireBreath': 1}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 28
+GameId: 6706784
+Time Tue Sep 20 2016 15:05:44 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 8, 3, 6]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 10, 'clawSharpness': 2, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 29
+GameId: 4471054
+Time Tue Sep 20 2016 15:05:44 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 4, 8, 6]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 3, 'clawSharpness': 2, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 30
+GameId: 3574540
+Time Tue Sep 20 2016 15:05:44 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 5, 2, 8]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 4, 'clawSharpness': 4, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 31
+GameId: 9896458
+Time Tue Sep 20 2016 15:05:45 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 3, 6, 7]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 9}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 32
+GameId: 2945975
+Time Tue Sep 20 2016 15:05:45 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 3, 5, 8]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 33
+GameId: 6611202
+Time Tue Sep 20 2016 15:05:45 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 2, 7, 6]
+Dragon {'dragon': {'wingStrength': 9, 'scaleThickness': 2, 'clawSharpness': 4, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 34
+GameId: 305434
+Time Tue Sep 20 2016 15:05:45 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 3, 6, 4]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 35
+GameId: 6889418
+Time Tue Sep 20 2016 15:05:46 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 2, 7, 8]
+Dragon {'dragon': {'wingStrength': 6, 'scaleThickness': 2, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 36
+GameId: 4943060
+Time Tue Sep 20 2016 15:05:46 GMT+0000 (UTC)
+Weather Looks like it’s going to be one of those days when the kingdom feels a bittersweet longing for the Above Average Impressive Frog Rain of 2012. The clouds are gathering and swirling themselves up for a storm. It would probably wise to not go out as the winds are gathering speed, you would want to land as close as possible to where your house ends up as the sky clears up again.
+Weather code SRO
+Knight [6, 8, 1, 5]
+Dragon {}
+Battle b'{"status":"Victory","message":"Knight died in storm, dragon survived in the pen."}'
+
+Game#: 37
+GameId: 2961672
+Time Tue Sep 20 2016 15:05:46 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 4, 4, 8]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 38
+GameId: 8617995
+Time Tue Sep 20 2016 15:05:47 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 5, 5, 2]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 4, 'clawSharpness': 10, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 39
+GameId: 810396
+Time Tue Sep 20 2016 15:05:47 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 4, 2, 8]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 3, 'clawSharpness': 5, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 40
+GameId: 3780027
+Time Tue Sep 20 2016 15:05:47 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [1, 7, 5, 7]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 9, 'clawSharpness': 1, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 41
+GameId: 1950278
+Time Tue Sep 20 2016 15:05:48 GMT+0000 (UTC)
+Weather  If your sign is Aquarius, you’re in for a treat today, at first the water is going to fall on the ground and then it will also stick around for a while. Leaving the house raftless will result in mandatory swim class. The King announces that 10 most impressive swimmers will be representing the Kingdom in the International Olympic Games. Practice is every Tuesday and Thursday or whenever there’s a flood
+Weather code HVA
+Knight [1, 8, 8, 3]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 5, 'clawSharpness': 10, 'fireBreath': 0}}
+Battle b'{"status":"Victory","message":"Dragon scratched up the umbrella boat and knight drowned."}'
+
+Game#: 42
+GameId: 3611700
+Time Tue Sep 20 2016 15:05:48 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 3, 6, 8]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 43
+GameId: 7734824
+Time Tue Sep 20 2016 15:05:48 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 1, 8, 6]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 1, 'clawSharpness': 4, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 44
+GameId: 7277136
+Time Tue Sep 20 2016 15:05:49 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 4, 3, 6]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 45
+GameId: 7683576
+Time Tue Sep 20 2016 15:05:49 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 2, 6, 6]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 2, 'clawSharpness': 8, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 46
+GameId: 6647043
+Time Tue Sep 20 2016 15:05:49 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 3, 4, 6]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 47
+GameId: 8131310
+Time Tue Sep 20 2016 15:05:50 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 3, 6, 7]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 9}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 48
+GameId: 8376304
+Time Tue Sep 20 2016 15:05:50 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 2, 7, 6]
+Dragon {'dragon': {'wingStrength': 9, 'scaleThickness': 2, 'clawSharpness': 4, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 49
+GameId: 4395849
+Time Tue Sep 20 2016 15:05:50 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 2, 7, 6]
+Dragon {'dragon': {'wingStrength': 9, 'scaleThickness': 2, 'clawSharpness': 4, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 50
+GameId: 7712164
+Time Tue Sep 20 2016 15:05:51 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 2, 8, 2]
+Dragon {'dragon': {'wingStrength': 7, 'scaleThickness': 1, 'clawSharpness': 10, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 51
+GameId: 321211
+Time Tue Sep 20 2016 15:05:51 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Weather code T E
+Knight [7, 0, 8, 5]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 5, 'clawSharpness': 5, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was zen enough to defeat the knight."}'
+
+Game#: 52
+GameId: 3312955
+Time Tue Sep 20 2016 15:05:51 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 2, 6, 6]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 2, 'clawSharpness': 8, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 53
+GameId: 516010
+Time Tue Sep 20 2016 15:05:52 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 5, 6, 4]
+Dragon {'dragon': {'wingStrength': 8, 'scaleThickness': 4, 'clawSharpness': 4, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 54
+GameId: 2582344
+Time Tue Sep 20 2016 15:05:52 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 2, 6, 6]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 2, 'clawSharpness': 8, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 55
+GameId: 8017101
+Time Tue Sep 20 2016 15:05:52 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 1, 3, 8]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 1, 'clawSharpness': 10, 'fireBreath': 7}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 56
+GameId: 6639359
+Time Tue Sep 20 2016 15:05:53 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 8, 3, 5]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 10, 'clawSharpness': 3, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 57
+GameId: 7913918
+Time Tue Sep 20 2016 15:05:53 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 2, 7, 4]
+Dragon {'dragon': {'wingStrength': 6, 'scaleThickness': 2, 'clawSharpness': 9, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 58
+GameId: 7971633
+Time Tue Sep 20 2016 15:05:53 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 3, 8, 7]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 2, 'clawSharpness': 2, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 59
+GameId: 8260531
+Time Tue Sep 20 2016 15:05:54 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 3, 4, 5]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 3, 'clawSharpness': 10, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 60
+GameId: 8972815
+Time Tue Sep 20 2016 15:05:54 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 7, 3, 8]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 6, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 61
+GameId: 1465734
+Time Tue Sep 20 2016 15:05:54 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 6, 1, 8]
+Dragon {'dragon': {'wingStrength': 1, 'scaleThickness': 5, 'clawSharpness': 4, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 62
+GameId: 7357234
+Time Tue Sep 20 2016 15:05:55 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 5, 8, 5]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 4, 'clawSharpness': 2, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 63
+GameId: 317727
+Time Tue Sep 20 2016 15:05:55 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 4, 5, 4]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 64
+GameId: 9938588
+Time Tue Sep 20 2016 15:05:55 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 4, 4, 5]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 65
+GameId: 1370063
+Time Tue Sep 20 2016 15:05:56 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 8, 4, 6]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 10, 'clawSharpness': 2, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 66
+GameId: 2645779
+Time Tue Sep 20 2016 15:05:56 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 8, 1, 3]
+Dragon {'dragon': {'wingStrength': 1, 'scaleThickness': 7, 'clawSharpness': 10, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 67
+GameId: 2734477
+Time Tue Sep 20 2016 15:05:56 GMT+0000 (UTC)
+Weather We are going to be facing one of the rare days when the two citizens who have installed air conditioning can say that they told everyone so. Forecast is that The Long Dry should still be shorter than the Kingdom’s longest water hoses, so everything should be under control, at least mathematically.
+Weather code T E
+Knight [5, 2, 8, 5]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 5, 'clawSharpness': 5, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was zen enough to defeat the knight."}'
+
+Game#: 68
+GameId: 1509105
+Time Tue Sep 20 2016 15:05:57 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 7, 3, 8]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 6, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 69
+GameId: 9721412
+Time Tue Sep 20 2016 15:05:57 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 8, 1, 4]
+Dragon {'dragon': {'wingStrength': 1, 'scaleThickness': 10, 'clawSharpness': 6, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 70
+GameId: 6797572
+Time Tue Sep 20 2016 15:05:57 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 4, 7, 3]
+Dragon {'dragon': {'wingStrength': 9, 'scaleThickness': 3, 'clawSharpness': 5, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 71
+GameId: 1335374
+Time Tue Sep 20 2016 15:05:58 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 5, 3, 7]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 4, 'clawSharpness': 4, 'fireBreath': 9}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 72
+GameId: 7268465
+Time Tue Sep 20 2016 15:05:58 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 2, 4, 6]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 2, 'clawSharpness': 10, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 73
+GameId: 9107022
+Time Tue Sep 20 2016 15:05:58 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [1, 8, 8, 3]
+Dragon {'dragon': {'wingStrength': 7, 'scaleThickness': 10, 'clawSharpness': 1, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 74
+GameId: 9462126
+Time Tue Sep 20 2016 15:05:59 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [1, 4, 8, 7]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 3, 'clawSharpness': 1, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 75
+GameId: 1916458
+Time Tue Sep 20 2016 15:05:59 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 0, 5, 8]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 0, 'clawSharpness': 6, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 76
+GameId: 4417545
+Time Tue Sep 20 2016 15:05:59 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 1, 8, 3]
+Dragon {'dragon': {'wingStrength': 7, 'scaleThickness': 1, 'clawSharpness': 10, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 77
+GameId: 6599604
+Time Tue Sep 20 2016 15:06:00 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 8, 7, 3]
+Dragon {'dragon': {'wingStrength': 6, 'scaleThickness': 10, 'clawSharpness': 2, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 78
+GameId: 1622020
+Time Tue Sep 20 2016 15:06:00 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Weather code FUNDEFINEDG
+Knight [8, 2, 5, 5]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 10, 'clawSharpness': 6, 'fireBreath': 1}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 79
+GameId: 6642963
+Time Tue Sep 20 2016 15:06:00 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [8, 7, 1, 4]
+Dragon {'dragon': {'wingStrength': 1, 'scaleThickness': 6, 'clawSharpness': 10, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 80
+GameId: 2182336
+Time Tue Sep 20 2016 15:06:01 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 3, 5, 6]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 3, 'clawSharpness': 8, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 81
+GameId: 8913249
+Time Tue Sep 20 2016 15:06:01 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 3, 6, 5]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 8, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 82
+GameId: 4089988
+Time Tue Sep 20 2016 15:06:01 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 3, 6, 6]
+Dragon {'dragon': {'wingStrength': 8, 'scaleThickness': 3, 'clawSharpness': 4, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 83
+GameId: 4535952
+Time Tue Sep 20 2016 15:06:02 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 4, 2, 7]
+Dragon {'dragon': {'wingStrength': 2, 'scaleThickness': 3, 'clawSharpness': 9, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 84
+GameId: 2097494
+Time Tue Sep 20 2016 15:06:02 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 7, 6, 1]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 9, 'clawSharpness': 5, 'fireBreath': 1}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 85
+GameId: 8688671
+Time Tue Sep 20 2016 15:06:02 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 8, 5, 5]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 10, 'clawSharpness': 2, 'fireBreath': 4}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 86
+GameId: 7110814
+Time Tue Sep 20 2016 15:06:03 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 4, 6, 8]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 87
+GameId: 9182117
+Time Tue Sep 20 2016 15:06:03 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 0, 7, 7]
+Dragon {'dragon': {'wingStrength': 9, 'scaleThickness': 0, 'clawSharpness': 5, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 88
+GameId: 2989242
+Time Tue Sep 20 2016 15:06:03 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [2, 5, 5, 8]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 4, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 89
+GameId: 7743988
+Time Tue Sep 20 2016 15:06:04 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 7, 8, 2]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 6, 'clawSharpness': 2, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 90
+GameId: 4926673
+Time Tue Sep 20 2016 15:06:04 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 3, 6, 8]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 91
+GameId: 8822743
+Time Tue Sep 20 2016 15:06:04 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 5, 7, 3]
+Dragon {'dragon': {'wingStrength': 9, 'scaleThickness': 4, 'clawSharpness': 4, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 92
+GameId: 3407335
+Time Tue Sep 20 2016 15:06:05 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 2, 7, 8]
+Dragon {'dragon': {'wingStrength': 6, 'scaleThickness': 2, 'clawSharpness': 2, 'fireBreath': 10}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 93
+GameId: 5822659
+Time Tue Sep 20 2016 15:06:05 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [7, 6, 4, 3]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 5, 'clawSharpness': 9, 'fireBreath': 3}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 94
+GameId: 2439268
+Time Tue Sep 20 2016 15:06:05 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [3, 4, 6, 7]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 3, 'clawSharpness': 3, 'fireBreath': 9}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 95
+GameId: 8889239
+Time Tue Sep 20 2016 15:06:06 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 2, 5, 7]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 2, 'clawSharpness': 5, 'fireBreath': 9}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 96
+GameId: 2228601
+Time Tue Sep 20 2016 15:06:06 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [5, 7, 6, 2]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 9, 'clawSharpness': 4, 'fireBreath': 2}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 97
+GameId: 3132571
+Time Tue Sep 20 2016 15:06:06 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [1, 7, 5, 7]
+Dragon {'dragon': {'wingStrength': 4, 'scaleThickness': 9, 'clawSharpness': 1, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 98
+GameId: 9169958
+Time Tue Sep 20 2016 15:06:07 GMT+0000 (UTC)
+Weather It’s very difficult to foresee what the day will bring, it’s mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+Weather code FUNDEFINEDG
+Knight [3, 1, 8, 8]
+Dragon {'dragon': {'wingStrength': 3, 'scaleThickness': 10, 'clawSharpness': 6, 'fireBreath': 1}}
+Battle b'{"status":"Victory","message":"Knight was useless in the fog."}'
+
+Game#: 99
+GameId: 4553106
+Time Tue Sep 20 2016 15:06:07 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [4, 1, 8, 7]
+Dragon {'dragon': {'wingStrength': 10, 'scaleThickness': 1, 'clawSharpness': 3, 'fireBreath': 6}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
+Game#: 100
+GameId: 4376181
+Time Tue Sep 20 2016 15:06:07 GMT+0000 (UTC)
+Weather Another day of everyday normal regular weather, business as usual, unless it’s going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+Weather code NMR
+Knight [6, 2, 6, 6]
+Dragon {'dragon': {'wingStrength': 5, 'scaleThickness': 2, 'clawSharpness': 8, 'fireBreath': 5}}
+Battle b'{"status":"Victory","message":"Dragon was successful in a glorious battle"}'
+
