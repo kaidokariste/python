@@ -1,0 +1,2 @@
+# Quick commands
+```python --version```
