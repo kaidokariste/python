@@ -20,11 +20,13 @@ CREATE TABLE "kaido.kariste".fantasy_premierleague
 );
 
 
-SELECT id, surname, firstname, form, round(avg(bps), 1) AS average_bps, price/10::numeric as price
+SELECT id, surname, firstname, form, round(avg(bps), 1) AS average_bps,
+       price / 10::numeric AS price,
+       round(form/(price / 10::numeric),2) as f_to_p
 FROM (
          SELECT row_number() OVER (PARTITION BY id ORDER BY gametime DESC) AS rank, *
          FROM "kaido.kariste".fantasy_premierleague) raw
-WHERE raw.rank < 3
+WHERE raw.rank <= 5
 GROUP BY id, surname, firstname, form, price
 ORDER BY avg(bps) DESC, form DESC;
 """
