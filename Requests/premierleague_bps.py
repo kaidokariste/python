@@ -15,16 +15,17 @@ CREATE TABLE "kaido.kariste".fantasy_premierleague
     firstname varchar,
     gametime  timestamp WITH TIME ZONE,
     form      numeric,
-    bps       integer
+    bps       integer,
+    price     integer
 );
 
 
-SELECT id, surname, firstname, form, round(avg(bps), 1) AS average_bps
+SELECT id, surname, firstname, form, round(avg(bps), 1) AS average_bps, price/10::numeric as price
 FROM (
          SELECT row_number() OVER (PARTITION BY id ORDER BY gametime DESC) AS rank, *
          FROM "kaido.kariste".fantasy_premierleague) raw
 WHERE raw.rank < 3
-GROUP BY id, surname, firstname, form
+GROUP BY id, surname, firstname, form, price
 ORDER BY avg(bps) DESC, form DESC;
 """
 
@@ -48,10 +49,11 @@ def df_fantasy(engine):
         #gameweek history where is stat for every gameweek
         gwh = json_response['history']
         for bps in gwh:
-            lst_values = [p['id'],p['second_name'],p['first_name'], bps['kickoff_time'], p['form'], bps['bps']]
+            lst_values = [p['id'],p['second_name'],p['first_name'], bps['kickoff_time'], p['form'], bps['bps'],p['now_cost']]
             fantasy_results.append(lst_values)
+            #print(lst_values)
     # Create the pandas DataFrame
-    df = pd.DataFrame(fantasy_results, columns = ['id', 'surname','firstname','gametime','form','bps'])
+    df = pd.DataFrame(fantasy_results, columns = ['id', 'surname','firstname','gametime','form','bps','price'])
     print(df)
     cur = engine.connect().execution_options(autocommit=True)
     cur.execute("""TRUNCATE TABLE "kaido.kariste".fantasy_premierleague""")
