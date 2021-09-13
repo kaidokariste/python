@@ -16,7 +16,8 @@ CREATE TABLE "kaido.kariste".fantasy_premierleague
     gametime  timestamp WITH TIME ZONE,
     form      numeric,
     bps       integer,
-    price     integer
+    price     integer,
+    inserted_dtime timestamptz default now()
 );
 
 
@@ -26,7 +27,7 @@ SELECT id, surname, firstname, form, round(avg(bps), 1) AS average_bps,
 FROM (
          SELECT row_number() OVER (PARTITION BY id ORDER BY gametime DESC) AS rank, *
          FROM "kaido.kariste".fantasy_premierleague) raw
-WHERE raw.rank <= 5
+WHERE raw.rank <= 3
 GROUP BY id, surname, firstname, form, price
 ORDER BY avg(bps) DESC, form DESC;
 """
@@ -35,9 +36,10 @@ fantasy_results = []
 
 def pg_connect():
     """
-    Connects to Postgres database. Returns connection handler
+    Connects to Postgres database. Returns connection handler.
+    connection_uri = "postgresql://<username>:<PASS>@<HOST>:5432/<DB>"
     """
-    connection_uri = "postgresql://kaido.kariste:<PASS>@<HOST>:5432/<DB>"
+    connection_uri = ""
     return sqlalchemy.create_engine(connection_uri)
 
 def df_fantasy(engine):
