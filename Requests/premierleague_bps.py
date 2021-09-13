@@ -13,6 +13,7 @@ CREATE TABLE "kaido.kariste".fantasy_premierleague
     id        integer,
     surname   varchar,
     firstname varchar,
+    position  integer,
     gametime  timestamp WITH TIME ZONE,
     form      numeric,
     bps       integer,
@@ -21,14 +22,15 @@ CREATE TABLE "kaido.kariste".fantasy_premierleague
 );
 
 
-SELECT id, surname, firstname, form, round(avg(bps), 1) AS average_bps,
+SELECT id, surname, firstname, position, form, round(avg(bps), 1) AS average_bps,
        price / 10::numeric AS price,
        round(form/(price / 10::numeric),2) as f_to_p
 FROM (
          SELECT row_number() OVER (PARTITION BY id ORDER BY gametime DESC) AS rank, *
-         FROM "kaido.kariste".fantasy_premierleague) raw
+         FROM "kaido.kariste".fantasy_premierleague
+    ) raw
 WHERE raw.rank <= 3
-GROUP BY id, surname, firstname, form, price
+GROUP BY id, surname, firstname, form, price, position
 ORDER BY avg(bps) DESC, form DESC;
 """
 
@@ -53,11 +55,11 @@ def df_fantasy(engine):
         #gameweek history where is stat for every gameweek
         gwh = json_response['history']
         for bps in gwh:
-            lst_values = [p['id'],p['second_name'],p['first_name'], bps['kickoff_time'], p['form'], bps['bps'],p['now_cost']]
+            lst_values = [p['id'],p['second_name'],p['first_name'], p['element_type'], bps['kickoff_time'], p['form'], bps['bps'],p['now_cost']]
             fantasy_results.append(lst_values)
             #print(lst_values)
     # Create the pandas DataFrame
-    df = pd.DataFrame(fantasy_results, columns = ['id', 'surname','firstname','gametime','form','bps','price'])
+    df = pd.DataFrame(fantasy_results, columns = ['id', 'surname','firstname','position','gametime','form','bps','price'])
     print(df)
     cur = engine.connect().execution_options(autocommit=True)
     cur.execute("""TRUNCATE TABLE "kaido.kariste".fantasy_premierleague""")
