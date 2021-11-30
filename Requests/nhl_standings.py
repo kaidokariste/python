@@ -2,6 +2,7 @@ import requests
 
 def nhl_anaheim_ducks_report(r):
     teams_records = json_response['records']
+    ducksReport = ""
     for tr in teams_records:
         if tr['division']['id'] == 27:
             teams = tr['teamRecords']
@@ -15,9 +16,8 @@ def nhl_anaheim_ducks_report(r):
                     points = team['points']
                     leaguerank = team['leagueRank']
                     streak = team['streak']['streakCode']
-    ducksReport = ("::: \n %s record (%i-%i-%i) %i pts, current streak %s and is ranked %sth in NHL " % (
+                    ducksReport = ("::: \n %s record (%i-%i-%i) %i pts, current streak %s and is ranked %sth in NHL " % (
                  teamname, wins, losses, ot, points, streak, leaguerank))
-
     return ducksReport
 
 
