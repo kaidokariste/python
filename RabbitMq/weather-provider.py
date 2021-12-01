@@ -2,7 +2,9 @@ from random import randrange
 import json
 import pika
 import time
-
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 def ilm():
     towns = ['Tallinn', 'Tartu', 'Narva', 'Valga', 'Kuressaare']
@@ -21,7 +23,7 @@ def send_to_Rabbit():
         season = 'summer'
 
     # By using amqps:// you will hit certification validation errors, so use amqp:// instead
-    url = 'amqp://<amqp-url>'
+    url = os.environ.get("rabbit_url")
     parameters = pika.URLParameters(url)
 
     connection = pika.BlockingConnection(parameters)
@@ -32,7 +34,9 @@ def send_to_Rabbit():
     channel.basic_publish(exchange='estonia_weather',
                           #routing_key=season,
                           routing_key='ilm',
-                          body=weather_forecast)
+                          body=weather_forecast,
+                          properties=pika.BasicProperties(content_type='application/json')
+                          )
 
     print(" [x] Sent " + weather_forecast)
     connection.close()
@@ -41,11 +45,11 @@ def send_to_Rabbit():
 def messagesender():
     i = 0
     # Send new message after every 5 seconds
-    while i < 100:
+    while i < 10:
         send_to_Rabbit()
         i += 1
         print(i)
-        time.sleep(15)
+        time.sleep(1)
 
 
 if __name__ == "__main__":
