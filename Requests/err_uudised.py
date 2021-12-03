@@ -28,7 +28,7 @@ for a in articles:
 try:
     currentbenchmark = max(dates)
 except ValueError:
-    currentbenchmark
+    pass
 
 f = open("newsbenchmark.txt", "w")
 f.write(currentbenchmark.strftime("%Y-%m-%d %H:%M:%S%z"))
