@@ -19,9 +19,10 @@ for a in articles:
     if currentbenchmark < isodate:
         title = a.find('title').text
         description = a.find('description').text
+        link = a.find('link').text
 
         #Preparing fleep message
-        message = '*{}*\n{}\n{}'.format(title,isodate.strftime("%H:%M %d.%m.%Y"),description)
+        message = '*{}<<{}>>*\n`{}`\n{}'.format(link,title,isodate.strftime("%H:%M %d.%m.%Y"),description)
         requests.post("<fleep-web-hook>", json={"message": message, "user": "DWH News Agency"})
         all_news_dates = dates.append(isodate)
 
