@@ -1,80 +1,195 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+    <meta charset="UTF-8" title="Filtreerimine" name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-#myInput {
-  background-image: url('/css/searchicon.png');
-  background-position: 10px 12px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-}
+        #myInput {
+            background-image: url('../static/searchicon.png');
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }
 
-#myUL {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
+        #myTable, #myTable2 {
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid #ddd;
+            font-size: 18px;
+        }
 
-#myUL li a {
-  border: 1px solid #ddd;
-  margin-top: -1px; /* Prevent double borders */
-  background-color: #f6f6f6;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px;
-  color: black;
-  display: block
-}
+        #myTable th, #myTable2 th, #myTable td, #myTable2 td {
+            text-align: left;
+            padding: 12px;
+        }
 
-#myUL li a:hover:not(.header) {
-  background-color: #eee;
-}
-</style>
+        #myTable tr, #myTable2 tr {
+            border-bottom: 1px solid #ddd;
+        }
+
+        #myTable tr.header, #myTable tr:hover, #myTable2 tr.header, #myTable2 tr:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+
+
 </head>
 <body>
 
-<h2>My Phonebook</h2>
-
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
 
-<ul id="myUL">
-  <li><a href="#">Adele</a></li>
-  <li><a href="#">Agnes</a></li>
+<h2>My Customers</h2>
+<table id="myTable">
+    <tr class="header">
+        <th style="width:60%;">Name</th>
+        <th style="width:40%;">Country</th>
+    </tr>
+    <tr>
+        <td>Alfreds Futterkiste</td>
+        <td>Germany</td>
+    </tr>
+    <tr>
+        <td>Berglunds snabbkop</td>
+        <td>Sweden</td>
+    </tr>
+    <tr>
+        <td>Island Trading</td>
+        <td>UK</td>
+    </tr>
+    <tr>
+        <td>Koniglich Essen</td>
+        <td>Germany</td>
+    </tr>
+    <tr>
+        <td>Laughing Bacchus Winecellars</td>
+        <td>Canada</td>
+    </tr>
+    <tr>
+        <td>Magazzini Alimentari Riuniti</td>
+        <td>Italy</td>
+    </tr>
+    <tr>
+        <td>North/South</td>
+        <td>UK</td>
+    </tr>
+    <tr>
+        <td>Paris specialites</td>
+        <td>France</td>
+    </tr>
+</table>
 
-  <li><a href="#">Billy</a></li>
-  <li><a href="#">Bob</a></li>
+<br>
 
-  <li><a href="#">Calvin</a></li>
-  <li><a href="#">Christina</a></li>
-  <li><a href="#">Cindy</a></li>
-</ul>
+<h2>Customer friend</h2>
+<table id="myTable2">
+    <tr class="header">
+        <th style="width:60%;">Name</th>
+        <th style="width:40%;">Country</th>
+    </tr>
+    <tr>
+        <td>Mihku Mätas</td>
+        <td>Germany</td>
+    </tr>
+    <tr>
+        <td>Berglunds snabbkop</td>
+        <td>Sweden</td>
+    </tr>
+    <tr>
+        <td>Island Trading</td>
+        <td>UK</td>
+    </tr>
+    <tr>
+        <td>Koniglich Essen</td>
+        <td>Germany</td>
+    </tr>
+    <tr>
+        <td>Laughing Bacchus Winecellars</td>
+        <td>Canada</td>
+    </tr>
+    <tr>
+        <td>Magazzini Alimentari Riuniti</td>
+        <td>Italy</td>
+    </tr>
+    <tr>
+        <td>North/South</td>
+        <td>UK</td>
+    </tr>
+    <tr>
+        <td>Paris specialites</td>
+        <td>France</td>
+    </tr>
+</table>
 
 <script>
-function myFunction() {
-    var input, filter, ul, li, a, i, txtValue;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    ul = document.getElementById("myUL");
-    li = ul.getElementsByTagName("li");
-    for (i = 0; i < li.length; i++) {
-        a = li[i].getElementsByTagName("a")[0];
-        txtValue = a.textContent || a.innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
-        } else {
-            li[i].style.display = "none";
+    function myFunction() {
+        var input, filter, table, tr, table2, tr2, td0, td1, i, txtValue;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        table2 = document.getElementById("myTable2");
+
+        tr = table.getElementsByTagName("tr");
+        tr2 = table2.getElementsByTagName("tr");
+
+        /*Tabel 1 loop*/
+        for (i = 0; i < tr.length; i++) {
+
+            td0 = tr[i].getElementsByTagName("td")[0];
+            td1 = tr[i].getElementsByTagName("td")[1];
+
+            if (td0) {
+
+                txtValue = td0.textContent || td0.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+
+                } else {
+
+                    if (td1) {
+                        txtValue = td1.textContent || td1.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            tr[i].style.display = "";
+                        } else {
+                            tr[i].style.display = "none";
+                        }
+                    }
+                }
+            }
+        }
+
+        /*Tabel2 loop*/
+        for (i = 0; i < tr2.length; i++) {
+
+            td0 = tr2[i].getElementsByTagName("td")[0];
+            td1 = tr2[i].getElementsByTagName("td")[1];
+
+            if (td0) {
+
+                txtValue = td0.textContent || td0.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr2[i].style.display = "";
+
+                } else {
+
+                    if (td1) {
+                        txtValue = td1.textContent || td1.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            tr2[i].style.display = "";
+                        } else {
+                            tr2[i].style.display = "none";
+                        }
+                    }
+                }
+            }
         }
     }
-}
 </script>
 
 </body>
