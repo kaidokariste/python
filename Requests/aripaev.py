@@ -1,12 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 import dateutil.parser
+from dateutil.tz import gettz
 
 
 def aripaev_news():
     dates = []
     # List of excluded topics
-    exclude_topics = []
+    exclude_topics = ['Sisuturundus']
 
     f = open("aripaevbenchmark.txt", "r")
     currentbenchmark = dateutil.parser.parse(f.read())
@@ -19,6 +20,8 @@ def aripaev_news():
     for a in articles:
         pubDate = a.find('pubDate').text.strip()
         isodate = dateutil.parser.parse(pubDate)
+        # Konverdime UTC aja Tallinna aega
+        isodate_tallinn = isodate.astimezone(gettz("Europe/Tallinn"))
         category = a.find('category').text.strip()
         # Get only news where date is newer than current saved benchmark and category is not excluded
         if currentbenchmark < isodate and category not in exclude_topics:
@@ -26,7 +29,7 @@ def aripaev_news():
             description = a.find('description').text.strip()
             link = a.find('link').text.strip()
             #Preparing fleep message
-            message = '*{}<<{}>>*\n`{} | {} | Äripäev`\n{}'.format(link,title,isodate.strftime("%H:%M %d.%m.%Y"),category, description)
+            message = '*{}<<{}>>*\n`{} | {} | Äripäev`\n{}'.format(link,title,isodate_tallinn.strftime("%H:%M %d.%m.%Y"),category, description)
             requests.post("<fleep-web-hook>", json={"message": message, "user": "DWH News Agency"})
             dates.append(isodate)
     try:
