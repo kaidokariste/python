@@ -4,8 +4,10 @@ import dateutil.parser
 import ilmateade as wt
 import aripaev as apv
 
+
 def err_news():
     dates = []
+    message = ''
     # List of excluded topics
     exclude_topics = ['Arhitektuur', 'Teater', 'ETV uudised', 'Kunst', 'Raadiouudised', 'Välismaa', 'Inimesed',
                   'ETV spordi lühiuudised','Arvamus']
@@ -18,7 +20,6 @@ def err_news():
     soup = BeautifulSoup(r.content, features='lxml-xml')
     articles = soup.findAll('item')
 
-
     for a in articles:
         pubDate = a.find('pubDate').text
         isodate = dateutil.parser.parse(pubDate)
@@ -29,9 +30,11 @@ def err_news():
             description = a.find('description').text
             link = a.find('link').text
             #Preparing fleep message
-            message = '*{}<<{}>>*\n`{} | {}`\n{}'.format(link,title,isodate.strftime("%H:%M %d.%m.%Y"),category, description)
-            requests.post("<fleep-web-hook>", json={"message": message, "user": "DWH News Agency"})
+            message = message+'*{}<<{}>>*\n`{} | {}`\n{}\n\n'.format(link,title,isodate.strftime("%H:%M %d.%m.%Y"),category, description)
             dates.append(isodate)
+
+    if len(message) > 0:
+        requests.post("<fleep-web-hook>", json={"message": message, "user": "DWH News Agency"})
 
     try:
         currentbenchmark = max(dates)
