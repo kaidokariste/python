@@ -14,6 +14,59 @@ print(pd.__version__)
 # 0.22.0
 ```
 
+# Updating Python in Ubuntu
+Install all necessary linux packagaes, as missing one may start cousing some weard errors
+```
+$ sudo apt-get update; sudo apt-get install make build-essential libssl-dev zlib1g-dev \
+  libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+  libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev libpq-dev
+```
+(as root) lets check out the Python version `# python3 --version`, it may show something like Python 3.6.8
+
+Download and install Python from source
+```
+wget https://www.python.org/ftp/python/3.9.9/Python-3.9.9.tgz
+tar xvf Python-3.9.9.tgz
+cd Python-3.9.9
+./configure --enable-optimizations
+sudo make altinstall
+```
+Main idea is to unlink old binaries and link new binaries. Check out the new binaries from `[root@ctl ~]# cd /usr/local/bin`. Should be there after install.  
+Move now to `cd /usr/bin` and `ls -lah`. You should see that symlink python3 points to old version etc.  
+
+```
+# Setting up python3 
+ln -s /usr/local/bin/python3.9 python3.9
+ln -sf python3.9 python3 # -f forces the symplink change as it already pointed to previous version 
+```
+And change other tihings similar way
+```
+#Setting up pip3
+ln -s /usr/local/bin/pip3.9 pip3.9
+ln -s pip3.9 pip3
+
+#Clean up previous version links
+rm pip-3
+rm pip3.6
+
+# Setting up python3.9-config
+ln -s /usr/local/bin/python3.9-config python3.9-config
+ln -sf python3.9-config python3-config
+
+#Pydoc3
+[root@ctl bin]# ln -s /usr/local/bin/pydoc3.9 pydoc3.9
+[root@ctl bin]# ln -sf pydoc3.9 pydoc3
+```
+Final state should look like this
+```
+lrwxrwxrwx.   1 root root       8 Jul 13 08:50 pydoc3 -> pydoc3.9
+lrwxrwxrwx.   1 root root      23 Jul 13 08:50 pydoc3.9 -> /usr/local/bin/pydoc3.9
+lrwxrwxrwx.   1 root root       9 Jul 13 08:17 python3 -> python3.9
+lrwxrwxrwx.   1 root root      24 Jul 13 08:14 python3.9 -> /usr/local/bin/python3.9
+lrwxrwxrwx.   1 root root      31 Jul 13 08:40 python3.9-config -> /usr/local/bin/python3.9-config
+lrwxrwxrwx.   1 root root      16 Jul 13 08:44 python3-config -> python3.9-config
+```
+
 # Packages based on purpose
 |Package name| Documentation  | Purpose  |  
 |---|---|---|
