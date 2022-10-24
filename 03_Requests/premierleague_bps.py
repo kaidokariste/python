@@ -41,7 +41,7 @@ def pg_connect():
     Connects to Postgres database. Returns connection handler.
     connection_uri = "postgresql://<username>:<PASS>@<HOST>:5432/<DB>"
     """
-    connection_uri = "postgresql://kaido.kariste:Mex1co1970@bigdata-development.db.big.local:5432/bigdata"
+    connection_uri = "postgresql://firstname.secondname:password@localhost:5432/database"
     return sqlalchemy.create_engine(connection_uri)
 
 def df_fantasy(engine):
