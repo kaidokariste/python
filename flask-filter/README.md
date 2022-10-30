@@ -8,3 +8,6 @@ venv\Scripts\activate
 pip install Flask
 flask run
 ```
+
+# Flask API
+https://www.youtube.com/playlist?list=PLU7aW4OZeUzwgfvRrR9abyIEjDf_R6wxX
