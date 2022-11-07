@@ -1,0 +1,9 @@
+[kafka]
+log_path=/var/lib/
+[db]
+host=database-host
+user=user
+database=db
+port=5432
+[snowflake]
+hook_key=
