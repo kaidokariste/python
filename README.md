@@ -6,6 +6,15 @@
 ```pip list``` - lists installed packages  
 ```pip show <package-name>``` - shows information of specific package
 
+# Creating virtual environment in Python
+```bash
+[dbuser@localhost python-sandbox]$ python3 -m venv <folder name: usually venv>
+[dbuser@localhost python-sandbox]$ ls
+venv
+[dbuser@localhost python-sandbox]$source venv/bin/activate
+(venv) [dbuser@localhost bin]$
+```
+
 Get package version using __version__
 ```python
 import pandas as pd
