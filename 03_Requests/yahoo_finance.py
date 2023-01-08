@@ -1,6 +1,6 @@
 import yfinance as yf
 
-gspc = yf.Ticker('^IXIC')
+gspc = yf.Ticker('^GSPC')
 previous_close = gspc.info['previousClose']
 current_price = gspc.info['regularMarketPrice']
 fifty_two_week_low = gspc.info['fiftyTwoWeekLow']
