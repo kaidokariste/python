@@ -35,7 +35,9 @@ print(final_bingo_table)
 
 # Write it to file
 try:
-    with open('bingo_ticket.txt', 'w') as f:
-        f.write(final_bingo_table)
+    # https://www.geeksforgeeks.org/reading-writing-text-files-python/
+    with open('bingo_ticket.txt', 'a') as f:
+        f.write(f"{final_bingo_table}\n\n")
+        f.close()
 except:
     print("An exception occurred")
