@@ -4,7 +4,8 @@
 ```pip install pymysql==0.8.0``` - kindle versiooni package installimine  
 ```venv\Scripts\activate.bat``` - Flask venv aktiveerimine  
 ```pip list``` - lists installed packages  
-```pip show <package-name>``` - shows information of specific package
+```pip show <package-name>``` - shows information of specific package  
+```pip install -r requirements.txt``` - Installing packages from requirements file
 
 # Creating virtual environment in Python
 ```bash
