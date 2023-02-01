@@ -1,4 +1,7 @@
-from sys import argv  # this what we import is kalled a "module"
+# Run it in terminal using arguments
+# $ python ex13.py til tol tal
+
+from sys import argv  # this what we import is called a "module"
 
 script, first, second, third = argv  # argument variable
 
@@ -11,3 +14,5 @@ print("Your third variable is", third)
 name = input("what is your name?")
 
 print("So, good job {} !".format(name))
+
+
