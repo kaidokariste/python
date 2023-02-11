@@ -1,9 +1,11 @@
 from sys import argv
 
-script, user_name = argv
+# arg[0] is always script name, implicitly taken always
+# arg[1] is username
+user_name = argv[1]
 prompt = '>'
 
-print("Hi {}, I'm the {} script.".format(user_name, script))
+print("Hi {}, I'm the {} script.".format(user_name, argv[0]))
 print("I'd like to ask you a few questions.")
 print("Do you like me {}".format(user_name))
 likes = input(prompt)
