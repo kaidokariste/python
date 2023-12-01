@@ -35,9 +35,9 @@ $ sudo apt-get update; sudo apt-get install make build-essential libssl-dev zlib
 
 Download and install Python from source
 ```
-wget https://www.python.org/ftp/python/3.9.9/Python-3.9.9.tgz
-tar xvf Python-3.9.9.tgz
-cd Python-3.9.9
+wget https://www.python.org/ftp/python/3.11.6/Python-3.11.6.tgz
+tar xvf Python-3.11.6.tgz
+cd Python-3.11.6
 ./configure --enable-optimizations
 sudo make altinstall
 ```
@@ -46,22 +46,22 @@ Move now to `cd /usr/bin` and `ls -lah`. You should see that symlink python3 poi
 
 ```
 # Setting up python3 
-ln -s /usr/local/bin/python3.9 python3.9
-ln -sf python3.9 python3 # -f forces the symplink change as it already pointed to previous version 
+ln -s /usr/local/bin/python3.11 python3.11
+ln -sf python3.11 python3 # -f forces the symplink change as it already pointed to previous version 
 ```
 And change other tihings similar way
 ```
 #Setting up pip3
 ln -s /usr/local/bin/pip3.9 pip3.9
-ln -s pip3.9 pip3
+ln -s pip3.11 pip3
 
 #Clean up previous version links
 rm pip-3
 rm pip3.6
 
-# Setting up python3.9-config
-ln -s /usr/local/bin/python3.9-config python3.9-config
-ln -sf python3.9-config python3-config
+# Setting up python3.11-config
+ln -s /usr/local/bin/python3.11-config python3.11-config
+ln -sf python3.11-config python3-config
 
 #Pydoc3
 [root@ctl bin]# ln -s /usr/local/bin/pydoc3.9 pydoc3.9
