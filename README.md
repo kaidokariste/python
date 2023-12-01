@@ -69,12 +69,12 @@ ln -sf python3.11-config python3-config
 ```
 Final state should look like this
 ```
-lrwxrwxrwx.   1 root root       8 Jul 13 08:50 pydoc3 -> pydoc3.9
-lrwxrwxrwx.   1 root root      23 Jul 13 08:50 pydoc3.9 -> /usr/local/bin/pydoc3.9
-lrwxrwxrwx.   1 root root       9 Jul 13 08:17 python3 -> python3.9
-lrwxrwxrwx.   1 root root      24 Jul 13 08:14 python3.9 -> /usr/local/bin/python3.9
-lrwxrwxrwx.   1 root root      31 Jul 13 08:40 python3.9-config -> /usr/local/bin/python3.9-config
-lrwxrwxrwx.   1 root root      16 Jul 13 08:44 python3-config -> python3.9-config
+lrwxrwxrwx.   1 root root       8 Jul 13 08:50 pydoc3 -> pydoc3.11
+lrwxrwxrwx.   1 root root      23 Jul 13 08:50 pydoc3.11 -> /usr/local/bin/pydoc3.11
+lrwxrwxrwx.   1 root root       9 Jul 13 08:17 python3 -> python3.11
+lrwxrwxrwx.   1 root root      24 Jul 13 08:14 python3.11 -> /usr/local/bin/python3.11
+lrwxrwxrwx.   1 root root      31 Jul 13 08:40 python3.11-config -> /usr/local/bin/python3.11-config
+lrwxrwxrwx.   1 root root      16 Jul 13 08:44 python3-config -> python3.11-config
 ```
 
 # Packages based on purpose
