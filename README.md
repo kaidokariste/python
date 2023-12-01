@@ -52,7 +52,7 @@ ln -sf python3.11 python3 # -f forces the symplink change as it already pointed 
 And change other tihings similar way
 ```
 #Setting up pip3
-ln -s /usr/local/bin/pip3.9 pip3.9
+ln -s /usr/local/bin/pip3.11 pip3.11
 ln -s pip3.11 pip3
 
 #Clean up previous version links
@@ -64,8 +64,8 @@ ln -s /usr/local/bin/python3.11-config python3.11-config
 ln -sf python3.11-config python3-config
 
 #Pydoc3
-[root@ctl bin]# ln -s /usr/local/bin/pydoc3.9 pydoc3.9
-[root@ctl bin]# ln -sf pydoc3.9 pydoc3
+[root@ctl bin]# ln -s /usr/local/bin/pydoc3.11 pydoc3.11
+[root@ctl bin]# ln -sf pydoc3.11 pydoc3
 ```
 Final state should look like this
 ```
