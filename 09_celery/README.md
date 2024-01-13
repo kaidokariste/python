@@ -22,4 +22,5 @@ pip install eventlet
 celery -A hello_world worker --pool=eventlet --loglevel=INFO
 ```
  
-    
+# References
+[Crontab in celery](https://medium.com/the-andela-way/crontabs-in-celery-d779a8eb4cf)
