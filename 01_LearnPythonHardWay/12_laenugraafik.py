@@ -3,11 +3,11 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
 
-def generate_annuity_schedule(loan_amount, period_in_months, year_interest_rate):
+def generate_annuity_schedule(schedule_start_date, loan_amount, period_in_months, year_interest_rate):
     n = 0
     loan_schedule = []
     # Add initial row, with date today
-    loan_schedule.append([n, datetime.today().strftime('%Y-%m-%d'), 0, 0, 0, loan_amount])
+    loan_schedule.append([n, schedule_start_date, 0, 0, 0, loan_amount])
 
     # Calculate monthly interest
     monthly_interest_rate = year_interest_rate / 1200
@@ -30,7 +30,7 @@ def generate_annuity_schedule(loan_amount, period_in_months, year_interest_rate)
 
 
 if __name__ == "__main__":
-    loan_schedule = generate_annuity_schedule(100, 12, 10)
+    loan_schedule = generate_annuity_schedule(schedule_start_date='2024-04-04', loan_amount=1000, period_in_months=12, year_interest_rate=5.477)
     tabular_schedule = (tabulate(loan_schedule, headers=["#", "Payment date", "Principal", "Interest", "Payment", "Residual"], tablefmt="grid"))
     print(tabular_schedule)
     # Write it to file
