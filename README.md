@@ -2,7 +2,8 @@
 ```python --version``` - Pythoni versiooni kontrollimine  
 ```pip install --upgrade pymysql==0.8.0``` - paketi upgrade kui downgrade mingiks kindlaks versiooniks  
 ```pip install pymysql==0.8.0``` - kindle versiooni package installimine  
-```venv\Scripts\activate.bat``` - Flask venv aktiveerimine  
+```venv\Scripts\activate.bat``` - venv aktiveerimine (CMD)  
+```venv\Scripts\activate.ps1``` - Python venv in Powershell environment. 
 ```pip list``` - lists installed packages  
 ```pip show <package-name>``` - shows information of specific package  
 ```pip install -r requirements.txt``` - Installing packages from requirements file
@@ -14,6 +15,11 @@
 venv
 [dbuser@localhost python-sandbox]$source venv/bin/activate
 (venv) [dbuser@localhost bin]$
+```
+
+```
+when it is powershell environment, then use
+.venv\Scripts\activate.ps1 
 ```
 
 Get package version using __version__
